@@ -4,8 +4,6 @@
 💻 Explorando o mundo da programação e sempre aprendendo algo novo<br/>
 🚀 Interessado em desenvolvimento de software e tecnologia em geral<br/>
 
-Atualmente, estou estudando C e expandindo meus conhecimentos em diversas áreas da programação. Meu objetivo é crescer como desenvolvedor, evoluindo passo a passo.<br/>
-
 Seja bem-vindo ao meu perfil! Vamos compartilhar conhecimento. 😃<br/>
 
 
