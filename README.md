@@ -2,7 +2,7 @@
 
 **`Operador`** **`Desenvolvedor`**
 
-Me chamo Gledson Souza, tenho 26 anos e sou natural de São Bernardo/MA, mas atualmente resido no Rio de Janeiro. Trabalho como Operador de Máquinas na OEC e estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia, com forte foco no ecossistema C#, e gosto de aprender aplicando a mão na massa.
+Me chamo Gledson Souza, tenho 26 anos e sou natural de São Bernardo/MA, mas atualmente resido no Rio de Janeiro. Trabalho como Operador de Máquinas na Odebrecht e estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia, com forte foco no ecossistema C#, e gosto de aprender aplicando a mão na massa.
 
 <p align="left"> 
     <a href="https://github.com/Gledson-z?tab=repositories&sort=stargazers">
